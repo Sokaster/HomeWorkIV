@@ -1,0 +1,14 @@
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\bin\Debug\netcoreapp3.1\HomeWork4_1.exe
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\bin\Debug\netcoreapp3.1\HomeWork4_1.deps.json
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\bin\Debug\netcoreapp3.1\HomeWork4_1.runtimeconfig.json
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\bin\Debug\netcoreapp3.1\HomeWork4_1.runtimeconfig.dev.json
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\bin\Debug\netcoreapp3.1\HomeWork4_1.dll
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\bin\Debug\netcoreapp3.1\HomeWork4_1.pdb
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\obj\Debug\netcoreapp3.1\HomeWork4_1.csproj.AssemblyReference.cache
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\obj\Debug\netcoreapp3.1\HomeWork4_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\obj\Debug\netcoreapp3.1\HomeWork4_1.AssemblyInfoInputs.cache
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\obj\Debug\netcoreapp3.1\HomeWork4_1.AssemblyInfo.cs
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\obj\Debug\netcoreapp3.1\HomeWork4_1.csproj.CoreCompileInputs.cache
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\obj\Debug\netcoreapp3.1\HomeWork4_1.dll
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\obj\Debug\netcoreapp3.1\HomeWork4_1.pdb
+D:\Project Courses C#\HomeWork4_1\HomeWork4_1\obj\Debug\netcoreapp3.1\HomeWork4_1.genruntimeconfig.cache
